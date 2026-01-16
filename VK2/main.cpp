@@ -7,5 +7,6 @@ int main()
 {
     Game peli(40);
     peli.play();
+
     return 0;
 }
